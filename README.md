@@ -159,14 +159,4 @@ Options:
     * `host` (string, defaults to `"0.0.0.0"`): the interface address the server should listen to
     * `exclusive` (boolean, defaults to `true`): if true, the server is not shareable with other processes (see [`Server#listen()` on Node.js docs](https://nodejs.org/api/net.html#net_server_listen_options_callback)).
 
-# Sponsors
 
-Development of Skiff is sponsored by [YLD](https://yld.io).
-
-# License
-
-[MIT](LICENSE)
-
-# Copyright
-
-Copyright (c) 2016 Pedro Teixeira
